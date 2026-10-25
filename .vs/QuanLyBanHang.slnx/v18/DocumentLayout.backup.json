@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\QuanLyBanHang\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|c:\\users\\hp\\downloads\\quanlybanhang\\quanlybanhang\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|c:\\users\\hp\\downloads\\quanlybanhang\\quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|c:\\users\\hp\\downloads\\quanlybanhang\\quanlybanhang\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|c:\\users\\hp\\downloads\\quanlybanhang\\quanlybanhang\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{5FE3DC98-7889-C901-2596-1E28924460C3}|QuanLyBanHang.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\QuanLyBanHang\\QuanLyBanHang\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\QuanLyBanHang\\QuanLyBanHang\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-25T10:32:17.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\QuanLyBanHang\\QuanLyBanHang\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\QuanLyBanHang\\QuanLyBanHang\\SQLQuery1.sql*",
+              "RelativeToolTip": "SQLQuery1.sql*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-25T10:27:28.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>QuanLyBanHang</RootNamespace>
+    <AssemblyName>QuanLyBanHang</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <StartupObject>QuanLyBanHang.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Thư viện xuất Excel (tự tải qua NuGet khi build) -->
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
+  </ItemGroup>
+
+</Project>
